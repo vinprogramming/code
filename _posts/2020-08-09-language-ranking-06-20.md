@@ -10,38 +10,41 @@ permalink: /:categories/:title
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: top-20.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-tags: [Holidays, Hawaii]
+tags: [Programming]
+comments: true
 ---
 
-If you are thinking to learn which language should you learn as your first language, you don't need to spend a lot of time thinking. Because whatever language you start with, you will be learning another language in a few months. I have learnt 4 languages in the last couple of years and got pretty good at all of them.
-Hey welcome to list of Programming language Rankings of June 2020. Actually, this list is prepared by RedMonk firm by analysing the code from Github and the discussions from Stack Overflow. If you have been into programming for a while you would know pretty well how popular Github and Stack Overflow among developers. So this list is not just based of what people are just talking about but actually doing stuff in.
-If you are new to programming and about to decide which language to learn first, this list will help you sure as this shows the popular languages not only of present times but also potentially will-be-used-mostly-in-future languages.
+<div> <p>If you are thinking to learn which language should you learn as your first language, you don't need to spend a lot of time thinking. Because whatever language you start with, you will be learning another language in a few months. I have learnt 4 languages in the last couple of years and got pretty good at all of them.</p>
+  <p>Hey welcome to list of Programming language Rankings of June 2020. Actually, this list is prepared by RedMonk firm by analysing the code from Github and the discussions from Stack Overflow. If you have been into programming for a while you would know pretty well how popular Github and Stack Overflow among developers. So this list is not just based of what people are just talking about but actually doing stuff in.</p><br>
+I<p>f you are new to programming and about to decide which language to learn first, this list will help you sure as this shows the popular languages not only of present times but also potentially will-be-used-mostly-in-future languages.</p>
 
-According to RedMonk the top 20 programming languages at as of June are:
-1 JavaScript
-2 Python
-3 Java
-4 PHP
-5 C++
-5 C#
-7 Ruby
-7 CSS
-9 TypeScript
-10 C
-11 Swift
-11 Objective-C
-13 R
-14 Scala
-15 Go
-15 Shell
-17 PowerShell
-18 Perl
-19 Kotlin
-20 Rust
-Note: You may have noticed that num,bers 5, 7, 11, 15 are repeated twice and 6, 8, 12, 16 not there. It is not a typing error. It is because those two languages are of same ranking and so same number. And also there must be only 20 languages in total and so the next number is omitted.
+<p>According to RedMonk the top 20 programming languages at as of June are:
+  <ol>
+    <li>1 JavaScript</li>
+    <li>2 Python</li>
+    <li>3 Java</li>
+    <li>4 PHP</li>
+    <li>5 C++</li>
+    <li>5 C#</li>
+    <li>7 Ruby</li>
+    <li>7 CSS</li>
+    <li>9 TypeScript</li>
+    <li>10 C</li>
+    <li>11 Swift</li>
+    <li>11 Objective-C</li>
+    <li>13 R</li>
+    <li>14 Scala</li>
+    <li>15 Go</li>
+    <li>15 Shell</li>
+    <li>17 PowerShell</li>
+    <li>18 Perl</li>
+    <li>19 Kotlin</li>
+      <li>20 Rust</li>
+  </ol></p>
+<p><i>Note: You may have noticed that numbers 5, 7, 11, 15 are repeated twice and 6, 8, 12, 16 not there. It is not a typing error. It is because those two languages are of same ranking and so same number. And also there must be only 20 languages in total and so the next number is omitted.</i></p>
 
-Yes!!! JavaScript is in first place. I love JavaScript so much that it being in first place just delights me. Python is the easiest language to learn because of its simple syntax but it is also used the most because of its powerful libraries which you can just import and use, just like that. But eventually JavaScript is taking over Python because of its wide range of  applications. Anything you can do with python, you can also do with JavaScript. Do you know that you can also do Machine Learning with JavaScript? Yes it is possible. For more information checkout the official site of [TensorFlow Js](https://www.tensorflow.org/js).
+  <p>Yes!!! JavaScript is in first place. I love JavaScript so much that it being in first place just delights me. Python is the easiest language to learn because of its simple syntax but it is also used the most because of its powerful libraries which you can just import and use, just like that. But eventually JavaScript is taking over Python because of its wide range of  applications. Anything you can do with python, you can also do with JavaScript. Do you know that you can also do Machine Learning with JavaScript? Yes it is possible. For more information checkout the official site of [TensorFlow Js](https://www.tensorflow.org/js).</p>
 
-But still I advice you to learn python as your first programming language because it is simple and it gives you momentum to learn more. The truth is you will not stop with just one language. So whatever language you choose first, you will still learn another useful language. Once you learn a language, learning other languages becomes easier. Because it is mostly the syntax that changes from one language to other. The concepts remain mostly the same.
+  <p>But still I advice you to learn python as your first programming language because it is simple and it gives you momentum to learn more. The truth is you will not stop with just one language. So whatever language you choose first, you will still learn another useful language. Once you learn a language, learning other languages becomes easier. Because it is mostly the syntax that changes from one language to other. The concepts remain mostly the same.</p>
 
-So get off your dilemma and start with python. If you want to learn python in Telugu, I have made some video content on YouTube. Click here to head on to my channel. I promise that you will love the content over there. Good luck on your programming journey. Follow me on [Instagram](https://instagram.com/vinayakdknight) to never ever miss any of my updates.
+  <p>So get off your dilemma and start with python. If you want to learn python in Telugu, I have made some video content on YouTube. Click here to head on to my channel. I promise that you will love the content over there. Good luck on your programming journey. Follow me on [Instagram](https://instagram.com/vinayakdknight) to never ever miss any of my updates.</p></div>
