@@ -2,7 +2,7 @@ title: Vin Programming
 description: > # this means to ignore newlines until "baseurl:"
   Win at Programming. Learn programming in Telugu.
 permalink: ':title/'
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/code" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: vinayakd1729 #if your site has a twitter account, enter it here
 
