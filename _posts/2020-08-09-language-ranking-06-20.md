@@ -19,7 +19,7 @@ comments: true
 <p>   If you are new to programming and about to decide which language to learn first, this list will help you sure as this shows the popular languages not only of present times but also potentially will-be-used-mostly-in-future languages.</p>
 
 <p>According to RedMonk the top 20 programming languages at as of June are:
-  <ul style="list-decoration:none">
+  <ul style="list-style-type:none">
     <li>1 JavaScript</li>
     <li>2 Python</li>
     <li>3 Java</li>
