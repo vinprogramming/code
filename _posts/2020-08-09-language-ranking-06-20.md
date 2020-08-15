@@ -19,7 +19,7 @@ comments: true
 <p>   If you are new to programming and about to decide which language to learn first, this list will help you sure as this shows the popular languages not only of present times but also potentially will-be-used-mostly-in-future languages.</p>
 
 <p>According to RedMonk the top 20 programming languages at as of June are:
-  <ol>
+  <ul style="list-decoration:none">
     <li>1 JavaScript</li>
     <li>2 Python</li>
     <li>3 Java</li>
@@ -40,7 +40,7 @@ comments: true
     <li>18 Perl</li>
     <li>19 Kotlin</li>
       <li>20 Rust</li>
-  </ol></p>
+  </ul></p>
 <p><i>Note: You may have noticed that numbers 5, 7, 11, 15 are repeated twice and 6, 8, 12, 16 not there. It is not a typing error. It is because those two languages are of same ranking and so same number. And also there must be only 20 languages in total and so the next number is omitted.</i></p>
 
   <p>   Yes!!! JavaScript is in first place. I love JavaScript so much that it being in first place just delights me. Python is the easiest language to learn because of its simple syntax but it is also used the most because of its powerful libraries which you can just import and use, just like that. But eventually JavaScript is taking over Python because of its wide range of  applications. Anything you can do with python, you can also do with JavaScript. Do you know that you can also do Machine Learning with JavaScript? Yes it is possible. For more information checkout the official site of <a href="https://www.tensorflow.org/js" target="_blank">Tensorflow JS</a>.</p>
