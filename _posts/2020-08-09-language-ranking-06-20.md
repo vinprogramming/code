@@ -48,5 +48,5 @@ comments: true
   <p>   But still I advice you to learn python as your first programming language because it is simple and it gives you momentum to learn more. The truth is you will not stop with just one language. So whatever language you choose first, you will still learn another useful language. Once you learn a language, learning other languages becomes easier. Because it is mostly the syntax that changes from one language to other. The concepts remain mostly the same.</p>
 
   <p>   So get off your dilemma and start with python. If you want to learn python in Telugu, I have made some video content on YouTube channel <a href="https://www.youtube.com/channel/UCdvfs0RU1DUmWFihtcWYCtA" target="_blank">Vin Programming</a>. I promise that you will love the content over there. Good luck on your programming journey. Follow me on <a href="https:instagram.com/vinayakdknight" target="_blank">Instagram</a> to never ever miss any of my updates.</p>
-  <p>Here is the link to reference article: <a href="https://redmonk.com/sogrady/2020/07/27/language-rankings-6-20/" target="_blank">RedMonk</a>
+  <p>Here is the link to reference article: <a href="https://redmonk.com/sogrady/2020/07/27/language-rankings-6-20/" target="_blank">RedMonk</a></p>
   </div>
