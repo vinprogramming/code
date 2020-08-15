@@ -14,7 +14,7 @@ tags: [Programming]
 comments: true
 ---
 
-<div> <p>   If you are thinking to learn which language should you learn as your first language, you don't need to spend a lot of time thinking. Because whatever language you start with, you will be learning another language in a few months. I have learnt 4 languages in the last couple of years and got pretty good at all of them.</p>
+<div> <p>   If you are thinking which language should you learn as your first language, you don't need to spend a lot of time thinking. Because whatever language you start with, you will be learning another language in a few months. I have learnt 4 languages in the last couple of years and got pretty good at all of them.</p>
   <p>   Hey welcome to list of Programming language Rankings of June 2020. Actually, this list is prepared by RedMonk firm by analysing the code from Github and the discussions from Stack Overflow. If you have been into programming for a while you would know pretty well how popular Github and Stack Overflow among developers. So this list is not just based of what people are just talking about but actually doing stuff in.</p>
 <p>   If you are new to programming and about to decide which language to learn first, this list will help you sure as this shows the popular languages not only of present times but also potentially will-be-used-mostly-in-future languages.</p>
 
