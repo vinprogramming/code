@@ -774,10 +774,11 @@ html {
 
 body {
 /*   font-family: 'Lato', sans-serif; */
-   font-family: 'Merriweather', serif;
+  font-family: 'Merriweather', serif;
   color: #515151;
   background-color: #fbfbfb;
   margin: 0;
+  font-size: 18px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
