@@ -8,7 +8,7 @@ author: Vinayak Kumar
 permalink: /:categories/:title
 
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: top-20.png # Add image post (optional)
+img: top-20-min.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Programming]
 comments: true
