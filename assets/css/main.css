@@ -770,7 +770,7 @@ template {
 
 html {
 /*   line-height: 1.5; */
-   line-height: 1.8;
+   line-height: 1.6;
 }
 
 body {
@@ -980,7 +980,7 @@ table tfoot td {
   position: relative;
   padding-bottom: 15px;
   font-size: 16px;
-  text-transform: uppercase;
+/*   text-transform: uppercase; */
   color: #333030;
   font-weight: 700;
 }
