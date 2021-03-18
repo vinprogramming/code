@@ -14,14 +14,14 @@ tags: [Programming] [Python]
 comments: true
 ---
 <p>
-**Why learn Python as your first programming language?**
+  <b>Why learn Python as your first programming language?</b>
 Python is a very powerful language. But it is not the speed that makes it powerful because python is actually slower compared to other major programming languages. What makes it powerful is its libraries. It should be your first programming language because it has very simple code. It looks easy and the syntax is simple. So it lets you focus on logic instead on debugging syntax often. As they say, it always good to start with something simple and easy. So Python is perfect for beginners as a first language.</p>
 
-<p>**But what are libraries?**
+<p><b>But what are libraries?</b>
 
 Libraries are set of functions or methods that are already written by someone. You can import them with a single command and use that code. This reduces a lot of effort and you can focus on utility. And python got some pretty amazing libraries.</p>
 
-<p>**Where is this used?**
+<p><b>Where is this used?</b>
 
 - Data Science
 - Automation
@@ -32,7 +32,7 @@ Libraries are set of functions or methods that are already written by someone. Y
 
   And many more...</p>
 
-<p>**How to learn Python for free?**
+<p><b>How to learn Python for free?</b>
 
 Python or any programming languages are free to learn from a lot of resources online. There are many YouTube videos to teach it. But if you are looking to learn it in conversational Telugu language, I have created a YouTube channel [Vinprogramming](https://www.youtube.com/). Go to this page below to learn more
 
@@ -40,6 +40,6 @@ Python or any programming languages are free to learn from a lot of resources on
 
 If you have any doubt, reach to me on Instagram at <a href="https://www.instagram.com/vinprogramming">@vinprogramming</a> or my personal account <a href="https://www.instagram.com/vinayak_kumar.d">@vinayak_kumar.d</a>
 
-<p>**What to you need to learn Python?**
+<p><b>What to you need to learn Python?</b>
 
 You need to have a python interpreter and a code editor. You can simply use online interpreters like [onlinegdb.com](http://onlinegdb.com) or geeksforgeeks IDE. Or if you want to run it offline on your PC, install Python from [python.org/downloads](http://python.org/downloads) and then a code editor like Visual Studio code from [code.visualstudio.com](http://code.visualstudio.com). In my course, I am using the online interpretor onlinegdb.com. Along with this all you need is interest and will to learn. Of course with a cup of coffee!!</p>
