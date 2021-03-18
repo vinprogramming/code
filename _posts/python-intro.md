@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Introduction to Python"
+title:  "Introduction-to-python"
 date:   2021-03-18
 categories: Python
 published: true
